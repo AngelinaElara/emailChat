@@ -1,0 +1,5 @@
+{
+  "port": 5001,
+  "mongoUrl": "mongodb+srv://admin:123qwe@cluster0.aaghu0l.mongodb.net/?retryWrites=true&w=majority", 
+  "jwtSecret": "Full"
+} 
